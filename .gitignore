@@ -1,0 +1,13 @@
+.gitignore
+
+# Exclude GX Developer backup files
+*.gdb
+*.gxw
+
+# Exclude temporary files
+*.tmp
+*.temp
+
+# Exclude system files
+.DS_Store
+Thumbs.db
