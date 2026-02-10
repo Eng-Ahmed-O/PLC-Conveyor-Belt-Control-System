@@ -1,18 +1,22 @@
-# Automated Bottle Filling System
+# Automated Bottle Filling System PLC Ladder Logic Project
 
-## System Overview
-The Automated Bottle Filling System is designed to streamline the process of filling bottles efficiently and accurately. This system leverages advanced sensors and microcontrollers to automate the filling process, reducing human error and increasing productivity.
+This project focuses on designing a PLC ladder logic control system for an automated bottle filling process. The system ensures precision, efficiency, and consistency in the filling operation, minimizing wastage and optimizing production.
 
-## Technical Features
-- **Microcontroller-Based Control**: Utilizes a microcontroller to manage filling operations, ensuring precise control.
-- **Sensor Integration**: Incorporates level sensors to detect the bottle's fill level, allowing for automatic cut-off to prevent overflow.
-- **User Interface**: Features an intuitive user interface for easy operation and monitoring of the filling process.
-- **Data Logging**: Capable of logging filling data for quality control and reporting purposes.
+## Features
+- Accurate filling volume
+- Bottleneck detection
+- Automatic reset and error handling
+- User-friendly interface for operation control
 
-## Setup Instructions
-1. **Hardware Setup**: Assemble the components, including the microcontroller, sensors, and filling mechanism as per the schematic provided in the documentation.
-2. **Software Installation**: Upload the control software to the microcontroller using the appropriate IDE.
-3. **Configuration**: Configure the sensor thresholds and any other parameters to match your specific requirements using the user interface.
-4. **Testing**: Conduct a test run to ensure that the system operates as expected.
+## Components Used
+- PLC (Programmable Logic Controller)
+- Sensors for bottle detection
+- Solenoid valves for filling control
+- Actuators for bottle movement
 
-For detailed documentation and troubleshooting, refer to the project wiki.
+## Conclusion
+The Automated Bottle Filling System enhances productivity and reliability in bottling operations, showcasing how PLC technology can streamline industrial processes.
+
+## Previous Project Info
+
+<!-- Previous content from README.md will be preserved below this line -->
